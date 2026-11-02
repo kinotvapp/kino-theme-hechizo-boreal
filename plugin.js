@@ -1,5 +1,5 @@
 // A theme's presentation, drawn with the screen kit in whichever theme is active.
-const THEME = {"id": "hechizo-boreal", "es": "Hechizo Boreal", "en": "Boreal Spell", "hook": "Di las palabras y mira cómo cambia el cielo.", "hookEn": "Say the words and watch the sky change.", "desc": "Violeta y turquesa muy redondeados, como la magia en un cielo del norte."};
+const THEME = {"id": "hechizo-boreal", "es": "Elsa", "en": "Elsa", "hook": "Que el frío no te detenga.", "hookEn": "Let the cold not stop you.", "desc": "Azul hielo y blanco nieve, con esquinas redondeadas como copos de escarcha."};
 const t = (es, en) => ({ text: es, textEn: en });
 
 export async function screen({ activeTheme }) {
