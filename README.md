@@ -1,10 +1,10 @@
-<img src="icon.png" width="128" alt="Hechizo Boreal">
+<img src="icon.png" width="128" alt="Elsa">
 
-# Hechizo Boreal
+# Elsa
 
-Violeta y turquesa muy redondeados, como la magia en un cielo del norte.
+Azul hielo y blanco nieve, con esquinas redondeadas como copos de escarcha.
 
-Tema para [Kino](https://github.com/kinotvapp/kino-light). Cambia los colores, el fondo y las formas de toda la app, trae una pantalla de presentación y no se conecta a internet.
+Tema para [Kino](https://github.com/kinotvapp/kino-light). Cambia los colores, el fondo, las formas y el logo de toda la app, trae una pantalla de presentación y no se conecta a internet.
 
 En Kino, escribe `kinotvapp/kino-theme-hechizo-boreal` en **Plugins ▸ Agregar un plugin**. Después ábrelo y pulsa **Activar**.
 
